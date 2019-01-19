@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MagicBall</string>
+    <string name="button_ask">Ответ</string>
+    <string name="text_title">Спроси меня что-то</string>
 </resources>
